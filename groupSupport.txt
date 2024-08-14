@@ -1,4 +1,8 @@
 Add the relevant functionality
 
+Add supervision for group chat
+
 add the correct functionality
+
+
 
