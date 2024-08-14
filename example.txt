@@ -6,4 +6,6 @@ new line
 
 new line 2
 
+test 2
+
 test
